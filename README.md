@@ -2,8 +2,8 @@
 
 ## suh, I am Tim
 
-cs diploma student
-mostly here to break stuff, fix it, then break it again lwl
+cs student
+mostly here to create stuff, fix it, then break it and succumb to the AI overlord lwl
 
 ### what im up to rn
 planning my first indie game, still grinding the game design stat
